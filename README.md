@@ -27,7 +27,7 @@ Exploring ways to make digital security more accessible | Brainstorming creative
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://e7.pngegg.com/pngimages/831/596/png-clipart-swift-apple-logo-objective-c-apple-logo-computer-programming-thumbnail.png"/>
+	<img width="10%" style="padding:5px" src="https://developer.apple.com/swift/images/swift-og.png"/>
 </p>
 
 #### Profile views counter
